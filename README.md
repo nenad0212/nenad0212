@@ -8,7 +8,7 @@
     ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
     ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
     ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=plastic&logo=typescript)
-    ![Php](https://img.shields.io/badge/-php-394989?style=plastic&logo=php)
+    ![Php](https://img.shields.io/badge/-PHP-394989?style=plastic&logo=php)
     ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
 
   🔹Frameworks/Libraries/APIs:<br>
@@ -20,14 +20,14 @@
     ![Django](https://img.shields.io/badge/-Django-092E20?style=plastic&logo=Django)
     ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=plastic)
     ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=plastic&logo=bootstrap)
-    ![Material UI](https://img.shields.io/badge/-MatrialUI-0081CB?style=plastic&logo=materialui)
+    ![Material UI](https://img.shields.io/badge/-Matrial-UI-0081CB?style=plastic&logo=materialui)
     ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=plastic&logo=tailwindcss)
     ![Graphql](https://img.shields.io/badge/-Graphql-E10098?style=plastic&logo=Graphql)
     
   🔹Database/Server:<br>
     ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=plastic&logo=amazon-aws)
     ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=plastic&logo=postgresql)
-    ![MySQL](https://img.shields.io/badge/-MySQL-2181FF?style=plastic&logo=mysql)
+    ![MySQL](https://img.shields.io/badge/-MySQL-black?style=plastic&logo=mysql)
     ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
 
   🔹Software/Dev Tools:<br>
