@@ -20,7 +20,7 @@
     ![Django](https://img.shields.io/badge/-Django-092E20?style=plastic&logo=Django)
     ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=plastic)
     ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=plastic&logo=bootstrap)
-    ![Material UI](https://img.shields.io/badge/-Matrial-UI-0081CB?style=plastic&logo=materialui)
+    ![Material UI](https://img.shields.io/badge/-MatrialUI-0081CB?style=plastic&logo=materialui)
     ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=plastic&logo=tailwindcss)
     ![Graphql](https://img.shields.io/badge/-Graphql-E10098?style=plastic&logo=Graphql)
     
