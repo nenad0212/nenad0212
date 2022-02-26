@@ -1,7 +1,7 @@
 ![I am a individual Full-Stack Developer.](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Build-website.jpg/800px-Build-website.jpg)
 
 <div>
-  <h4>⭐<b><>My life for the coding</></b>⭐</h4>
+  <h4 style="font-size:16px;">⭐<b>My life for the coding</b>⭐</h4>
 
   🔹Programming Languages:<br>
     ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
