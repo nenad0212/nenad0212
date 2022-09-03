@@ -6,7 +6,7 @@
 <div>
   <h3>⭐<b>My Skill set</b>⭐</h3>
 
-  🔹Programming Languages:<br>
+  🔹Programming Languages:<br /><br />
     ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
     ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
     ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
@@ -14,7 +14,7 @@
     ![Php](https://img.shields.io/badge/-PHP-394989?style=plastic&logo=php)
     ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
 
-  🔹Frameworks/Libraries/APIs:<br>
+  🔹Frameworks/Libraries/APIs:<br /><br />
     ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=plastic)
     ![Vue](https://img.shields.io/badge/-VueJS-4FC08D?logo=Vue.js&style=plastic&logoColor=white)
     ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=Angular&style=plastic)
@@ -27,13 +27,13 @@
     ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=plastic&logo=tailwindcss)
     ![Graphql](https://img.shields.io/badge/-Graphql-E10098?style=plastic&logo=Graphql)
     
-  🔹Database/Server:<br>
+  🔹Database/Server:<br /><br />
     ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=plastic&logo=amazon-aws)
     ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=plastic&logo=postgresql)
     ![MySQL](https://img.shields.io/badge/-MySQL-black?style=plastic&logo=mysql)
     ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
 
-  🔹Software/Dev Tools:<br>
+  🔹Software/Dev Tools:<br /><br />
     ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
     ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
     ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
